@@ -14,6 +14,7 @@ const runPrompt = () => {
     answer.action();
     if (answer.action !== questions[0].choices[2].value) {
         clear();
+        prompt(questions);
         runPrompt();
     }
   });
