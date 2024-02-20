@@ -1,12 +1,17 @@
 {
   "name": "mariocsan",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "type": "module",
   "description": "Mario Canales' professional NPX card",
   "main": "index.js",
   "bin": {
     "mariocsan": "./index.js"
-  },  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mariocsan/npxcard.git"
+  },
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js"
   },
