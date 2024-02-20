@@ -38,7 +38,6 @@ export const me = boxen(
     `${chalk.bold('.NET Developer with experience turning ideas into exceptional experiences.')}`,
     `${chalk.bold('My focus revolves around technical excellence and creativity to deliver products that not only meet needs but also inspire.')}`,
     '',
-    `${chalk.bold('Following passion, living what I love. Enjoys')}`,
     `${chalk.bold('Passionate about crafting innovative solutions that blend technology and user experience.')}`,
     `${chalk.bold('As Elon Musk says, When something is important enough, you do it even if the odds are not in your favor.')}`
   ].join('\n'),
