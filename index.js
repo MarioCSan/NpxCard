@@ -8,4 +8,8 @@ clear()
 console.log(me)
 
 const prompt = inquirer.createPromptModule()
-prompt(questions).then((answer) => answer.action())
+prompt(questions).then(
+    answer => {
+        while (answer!=='exit')
+            answer.action()
+    });

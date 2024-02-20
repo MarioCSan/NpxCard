@@ -17,6 +17,13 @@ export const questions = [
         }
       },
       {
+        name: 'Know more about my projects',
+        value: ()=> {
+            open('https://github.com/mariocsan')
+            console.log('\nKeep up with my projects.\n')
+        }
+      },
+      {
         name: 'Exit',
         value: () => console.log('Enjoy your day.\n')
       }
