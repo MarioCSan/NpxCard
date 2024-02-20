@@ -20,4 +20,5 @@ const runPrompt = () => {
     }
   });
 };
+
 runPrompt();
