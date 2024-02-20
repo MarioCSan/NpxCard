@@ -20,5 +20,11 @@ To view the NPX card, simply run the following command in your terminal:
 npx mariocsan
 ```
 
+## Demo
+
+https://github.com/MarioCSan/NpxCard/assets/40211718/7e712839-85a0-4502-a947-c422d8e04e45
+
+
+
 ### How to build your own
 Under construction
