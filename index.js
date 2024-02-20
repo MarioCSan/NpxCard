@@ -10,13 +10,13 @@ console.log(me);
 const prompt = inquirer.createPromptModule();
 
 const runPrompt = () => {
+  clear();
+  console.log(me);
   prompt(questions).then((answer) => {
     answer.action();
     if (answer.action !== questions[0].choices[2].value) {
-        clear();
-        console.log(me);
-        prompt(questions);
-        runPrompt();
+      prompt(questions);
+      runPrompt();
     }
   });
 };
