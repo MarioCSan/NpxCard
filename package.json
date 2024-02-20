@@ -1,6 +1,6 @@
 {
   "name": "mariocanales",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "description": "An NPX card",
   "main": "cli.js",
