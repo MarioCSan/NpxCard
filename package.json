@@ -1,6 +1,6 @@
 {
   "name": "mariocsan",
-  "version": "0.0.12.4",
+  "version": "0.0.12.5",
   "type": "module",
   "description": "Mario Canales' professional NPX card",
   "main": "index.js",
