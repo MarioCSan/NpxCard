@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "type": "module",
   "description": "An NPX card",
-  "main": "cli.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon cli.js"
