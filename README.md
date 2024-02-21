@@ -25,4 +25,4 @@ npx mariocsan
 ![ezgif-3-d83c1563a3](https://github.com/MarioCSan/NpxCard/assets/40211718/fd68efd5-3fdd-4392-90e7-b42caefb381b)
 
 ### How to build your own
-Under construction
+You can create your own card by following this [tutorial](https://dev.to/mariocsan/create-an-npx-professional-card-l9l).
