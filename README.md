@@ -22,9 +22,7 @@ npx mariocsan
 
 ## Demo
 
-https://github.com/MarioCSan/NpxCard/assets/40211718/7e712839-85a0-4502-a947-c422d8e04e45
-
-
+![ezgif-3-d83c1563a3](https://github.com/MarioCSan/NpxCard/assets/40211718/fd68efd5-3fdd-4392-90e7-b42caefb381b)
 
 ### How to build your own
 Under construction
