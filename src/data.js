@@ -7,7 +7,7 @@ export const data = {
   github: chalk.hex('#0077B5')('  https://github.com/marioCSan/'),
   linkedin: chalk.white('https://linkedin.com/in/mariocanalessanchez'),
   website: chalk.white(' https://mariocanales.es/'),
-  dev: chalk.hex('#0077B5')('  https://dev.to/mariocsan/'),
+  dev: chalk.hex('#0077B5')('   https://dev.to/mariocsan/'),
   labelWebsite: chalk.white.bold('Website:'),
   labelTwitter: chalk.hex('#08a0e9').bold('Twitter:'),
   labelGitHub: chalk.hex('#0077B5').bold('GitHub:'),
