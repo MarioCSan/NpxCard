@@ -2,7 +2,8 @@
 
 ## Description
 
-Welcome to the repository for `mariocsan`! 🚀
+Welcome to the repository for `npx mariocsan`! 🚀
+Note: the content of the NPX card is in spanish, my mother language. Im working in add multilanguage support. Stay tuned 
 
 This repository houses the source code for a unique NPX card that provides a quick and command-line accessible introduction to the owner of this repository. 
 The NPX card is a creative way to share information about the individual, including their name, role, and links to social media or notable projects.
