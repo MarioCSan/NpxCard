@@ -3,6 +3,7 @@
 ## Description
 
 Welcome to the repository for `npx mariocsan`! 🚀
+<br/>
 Note: the content of the NPX card is in spanish, my mother language. Im working in add multilanguage support. Stay tuned 
 
 This repository houses the source code for a unique NPX card that provides a quick and command-line accessible introduction to the owner of this repository. 
