@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import inquirer from "inquirer";
-import { me, questions } from "./src/en_content.js";
+import { me, questions } from "./src/content.js";
 import { clear } from "console";
 clear();
  

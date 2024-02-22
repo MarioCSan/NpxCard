@@ -42,7 +42,7 @@ export const me = boxen(
     `${data.labelLinkedin}  ${data.linkedin}`,
     '',
     `${chalk.bold('Desarrollador .NET con experiencia en convertir ideas en experiencias excepcionales.')}`,
-    `${chalk.bold(' Mi enfoque se centra en la excelencia técnica y la creatividad para ofrecer productos que no solo satisfacen las necesidades, sino que también inspiran.')}`,
+    `${chalk.bold('Mi enfoque se centra en la excelencia técnica y la creatividad para ofrecer productos que no solo satisfacen las necesidades, sino que también inspiran.')}`,
     '',
     `${chalk.bold('Apasionado por la creación de soluciones innovadoras que fusionan tecnología y experiencia del usuario.')}`,
     `${chalk.bold('Como dice Elon Musk, "cuando algo es lo suficientemente importante, lo haces incluso si las probabilidades no están a tu favor"')}`
